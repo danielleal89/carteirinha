@@ -1,0 +1,8 @@
+{
+  "name": "Carteirinha",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "248d1a5d"
+}
